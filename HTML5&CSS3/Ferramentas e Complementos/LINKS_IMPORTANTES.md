@@ -14,3 +14,9 @@
  - [Libreshot (imagens de domínio público);](https://libreshot.com/)
  - [Wikimedia Commons (imagens de domínio público);](https://commons.wikimedia.org/wiki/Commons:Featured_pictures?uselang=pt-br)
  - [Site para desenhar Favicon;](https://www.favicon.cc/)
+ - [Gerador prático de favicons;](https://favicon.io/)
+
+## Formatação de texto:
+
+- [Elementos obsoletos na HTML5 - W3C org;](https://www.w3.org/TR/html-markup/obsolete.html)
+- [Elemntos obsoletos na HTML5 - Mozilla Developer Network (MDN);]( https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Obsolete_and_deprecated_elements)
